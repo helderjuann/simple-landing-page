@@ -1,2 +1,4 @@
 # simple-landing-page
-Uma landing page bem simples 100% responsiva
+
+Fiz essa landing page em poucos minutos. Preciso melhorar muita coisa nela ainda, irei atualizar conforme os dias passam. <br>
+Por enquanto, estou focado em outros projetos - 30/08/2023
